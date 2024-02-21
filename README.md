@@ -1,4 +1,4 @@
-#Street Market Online
+Street Market Online
 Welcome to Street Market Online, your one-stop destination for fresh produce, local crafts, and unique finds from street vendors. Our website is designed to bring the charm and convenience of a street market to your fingertips.
 
 Features
