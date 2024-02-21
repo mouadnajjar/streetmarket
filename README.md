@@ -12,7 +12,6 @@ Backend: (Specify any backend technologies or frameworks used)
 Database: (Specify any database technologies used)
 Payment Gateway: (Specify the payment gateway integrated)
 Getting Started
-Clone the repository: git clone https://github.com/yourusername/street-market-online.git
 Navigate to the project directory.
 Open index.html in your web browser to view the website locally.
 Contributing
